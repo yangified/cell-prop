@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>default_myplaces_en_US.kml</name>
+	<open>1</open>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff00ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default_myplaces_style">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin_copy2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin80">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin60">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff00ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff00ff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff00ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin60">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>My Places</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>C:/Program Files/Google/Google Earth/res/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>C:/Program Files/Google/Google Earth/res/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Untitled Placemark</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>2.488460155260052</longitude>
+				<latitude>22.86426412233817</latitude>
+				<altitude>0</altitude>
+				<range>992050.7525083564</range>
+				<tilt>3.048463133308863</tilt>
+				<heading>-14.21910949607535</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy2</styleUrl>
+			<Point>
+				<coordinates>2.686613243686878,23.54440036791898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Placemark</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-149.4424473071323</longitude>
+				<latitude>-17.65479626852718</latitude>
+				<altitude>0</altitude>
+				<range>2394799.375926073</range>
+				<tilt>0</tilt>
+				<heading>0.7891419774050561</heading>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin_copy0</styleUrl>
+			<Point>
+				<coordinates>-149.4424473071323,-17.65479626852718,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Polygon</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Folder>
+			<name>Sightseeing</name>
+			<description>Select this folder and click on the &apos;Play&apos; button below, to start the tour.</description>
+			<Placemark>
+				<name>Disney World, Florida, USA</name>
+				<LookAt>
+					<longitude>-81.581216</longitude>
+					<latitude>28.418475</latitude>
+					<altitude>0</altitude>
+					<range>796.129915</range>
+					<tilt>0</tilt>
+					<heading>-179.544582</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>-81.581216,28.418475,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dallas - Fort Worth International</name>
+				<LookAt>
+					<longitude>-97.040015</longitude>
+					<latitude>32.894054</latitude>
+					<altitude>0</altitude>
+					<range>6440.757705</range>
+					<tilt>0</tilt>
+					<heading>64.161338</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>-97.040015,32.894054,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RMS Queen Mary</name>
+				<LookAt>
+					<longitude>-118.189791</longitude>
+					<latitude>33.752202</latitude>
+					<altitude>0</altitude>
+					<range>395.585365</range>
+					<tilt>0</tilt>
+					<heading>-0.000709</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>-118.189791,33.752202,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grand Canyon, US</name>
+				<LookAt>
+					<longitude>-112.335368</longitude>
+					<latitude>36.227198</latitude>
+					<altitude>0</altitude>
+					<range>7965.682593000001</range>
+					<tilt>65.486625</tilt>
+					<heading>131.117811</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>-112.335368,36.227198,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eiffel Tower, France</name>
+				<LookAt>
+					<longitude>2.29426</longitude>
+					<latitude>48.858052</latitude>
+					<altitude>0</altitude>
+					<range>265.415512</range>
+					<tilt>0</tilt>
+					<heading>22.250324</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>2.29426,48.858052,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CN Tower, Canada</name>
+				<LookAt>
+					<longitude>-79.387575</longitude>
+					<latitude>43.642574</latitude>
+					<altitude>0</altitude>
+					<range>490.937966</range>
+					<tilt>0</tilt>
+					<heading>-160.158732</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>-79.386994,43.641099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hamburg, Germany</name>
+				<LookAt>
+					<longitude>9.994603</longitude>
+					<latitude>53.545719</latitude>
+					<altitude>0</altitude>
+					<range>482.030833</range>
+					<tilt>0</tilt>
+					<heading>6.947557</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>9.994634,53.545533,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Imperial Palace, Japan</name>
+				<LookAt>
+					<longitude>139.752459</longitude>
+					<latitude>35.684753</latitude>
+					<altitude>0</altitude>
+					<range>2298.356249</range>
+					<tilt>7.909211</tilt>
+					<heading>84.34698</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>139.752459,35.684753,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Christ The Redeemer, Brazil</name>
+				<LookAt>
+					<longitude>-43.210661</longitude>
+					<latitude>-22.951925</latitude>
+					<altitude>0</altitude>
+					<range>360.517087</range>
+					<tilt>68.52331599999999</tilt>
+					<heading>-7.072927</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>-43.210446,-22.951987,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Las Vegas, US</name>
+				<LookAt>
+					<longitude>-115.172887</longitude>
+					<latitude>36.100841</latitude>
+					<altitude>0</altitude>
+					<range>320.760854</range>
+					<tilt>0</tilt>
+					<heading>131.163001</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>-115.172887,36.100841,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lisbon, Portugal</name>
+				<LookAt>
+					<longitude>-9.129564</longitude>
+					<latitude>38.763061</latitude>
+					<altitude>0</altitude>
+					<range>4268.535703</range>
+					<tilt>0</tilt>
+					<heading>-0.004218</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>-9.129564,38.763061,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Saint Peter&apos;s Basilica, Vatican City</name>
+				<LookAt>
+					<longitude>12.454076</longitude>
+					<latitude>41.901828</latitude>
+					<altitude>0</altitude>
+					<range>855.075256</range>
+					<tilt>42.263755</tilt>
+					<heading>86.55748300000001</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>12.453111,41.902074,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Basilica of El Pilar, Spain</name>
+				<LookAt>
+					<longitude>-0.878196</longitude>
+					<latitude>41.656896</latitude>
+					<altitude>0</altitude>
+					<range>491.112138</range>
+					<tilt>0</tilt>
+					<heading>175.346439</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>-0.878921,41.656378,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>London Eye, UK</name>
+				<LookAt>
+					<longitude>-0.119933</longitude>
+					<latitude>51.503277</latitude>
+					<altitude>0</altitude>
+					<range>547.525958</range>
+					<tilt>0</tilt>
+					<heading>-109.739917</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>-0.118925,51.503609,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sydney Olympic Site, Australia</name>
+				<LookAt>
+					<longitude>151.066035</longitude>
+					<latitude>-33.847733</latitude>
+					<altitude>0</altitude>
+					<range>2280.725256</range>
+					<tilt>52.040014</tilt>
+					<heading>99.24647400000001</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>151.066035,-33.847733,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Red Square, Russian Federation</name>
+				<LookAt>
+					<longitude>37.62018</longitude>
+					<latitude>55.753881</latitude>
+					<altitude>0</altitude>
+					<range>611.2172460000001</range>
+					<tilt>0.322003</tilt>
+					<heading>40.07039</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>37.621406,55.753967,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Saint Helens, US</name>
+				<LookAt>
+					<longitude>-122.176504</longitude>
+					<latitude>46.209497</latitude>
+					<altitude>0</altitude>
+					<range>14738.712726</range>
+					<tilt>52.798521</tilt>
+					<heading>-125.176711</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>-122.174222,46.20625500000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Former Republican Palace, Iraq</name>
+				<LookAt>
+					<longitude>44.408542</longitude>
+					<latitude>33.304173</latitude>
+					<altitude>0</altitude>
+					<range>417.565352</range>
+					<tilt>0</tilt>
+					<heading>-58.687589</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>44.409189,33.304616,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Manhattan Island, US</name>
+				<LookAt>
+					<longitude>-74.010987</longitude>
+					<latitude>40.707764</latitude>
+					<altitude>0</altitude>
+					<range>1630.722134</range>
+					<tilt>71.982992</tilt>
+					<heading>26.987546</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>-74.010987,40.707764,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Forbidden City, China</name>
+				<LookAt>
+					<longitude>116.390506</longitude>
+					<latitude>39.916649</latitude>
+					<altitude>0</altitude>
+					<range>1091.526831</range>
+					<tilt>9.572882999999999</tilt>
+					<heading>84.053819</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>116.390506,39.91664900000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Reichstag, Germany</name>
+				<LookAt>
+					<longitude>13.37554</longitude>
+					<latitude>52.518299</latitude>
+					<altitude>0</altitude>
+					<range>281.662117</range>
+					<tilt>7.910456</tilt>
+					<heading>37.131659</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>13.375986,52.517373,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Google Campus, US</name>
+				<LookAt>
+					<longitude>-122.083893</longitude>
+					<latitude>37.422066</latitude>
+					<altitude>0</altitude>
+					<range>419.623985</range>
+					<tilt>26.52647</tilt>
+					<heading>-147.310648</heading>
+				</LookAt>
+				<styleUrl>#default_myplaces_style</styleUrl>
+				<Point>
+					<coordinates>-122.083983,37.422172,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>default</name>
+			<LookAt>
+				<longitude>-95.265399</longitude>
+				<latitude>38.9594</latitude>
+				<altitude>0</altitude>
+				<range>6371000</range>
+				<tilt>0</tilt>
+				<heading>5.2718</heading>
+			</LookAt>
+			<styleUrl>#default_myplaces_style</styleUrl>
+			<Point>
+				<coordinates>-52.207297,-12.589375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emag: Victim&apos;s House</name>
+			<LookAt>
+				<longitude>-84.22871699990449</longitude>
+				<latitude>33.74307499949123</latitude>
+				<altitude>0</altitude>
+				<range>1000.000054813282</range>
+				<tilt>0</tilt>
+				<heading>5.303614688273932e-011</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Point>
+				<coordinates>-84.22871699990449,33.74307499949123,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emag: Burger King</name>
+			<LookAt>
+				<longitude>-84.1696220001875</longitude>
+				<latitude>33.70540899986643</latitude>
+				<altitude>0</altitude>
+				<range>1000.000301998971</range>
+				<tilt>0</tilt>
+				<heading>-1.040621832067937e-010</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Point>
+				<coordinates>-84.1696220001875,33.70540899986643,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emag: Base Station 214</name>
+			<LookAt>
+				<longitude>-84.23397999999244</longitude>
+				<latitude>33.73697399976998</latitude>
+				<altitude>0</altitude>
+				<range>1000.000405803485</range>
+				<tilt>0</tilt>
+				<heading>4.145057888617328e-012</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>-84.23397999999244,33.73697399976998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emag: Base Station 222</name>
+			<LookAt>
+				<longitude>-84.26569500001948</longitude>
+				<latitude>33.70288499989404</latitude>
+				<altitude>0</altitude>
+				<range>1000.000439594443</range>
+				<tilt>0</tilt>
+				<heading>-1.081905431833333e-011</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Point>
+				<coordinates>-84.26569500001948,33.70288499989404,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emag: Base Station 223</name>
+			<LookAt>
+				<longitude>-84.21690000003544</longitude>
+				<latitude>33.70684799977934</latitude>
+				<altitude>0</altitude>
+				<range>1000.000308599305</range>
+				<tilt>0</tilt>
+				<heading>-1.972063173307935e-011</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>-84.21690000003544,33.70684799977934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emag: Base Station 224</name>
+			<LookAt>
+				<longitude>-84.18166599997326</longitude>
+				<latitude>33.70081400006657</latitude>
+				<altitude>0</altitude>
+				<range>1000.000326447043</range>
+				<tilt>0</tilt>
+				<heading>1.481661398359779e-011</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Point>
+				<coordinates>-84.18166599997326,33.70081400006657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emag: Base Station 041</name>
+			<LookAt>
+				<longitude>-84.23131900003205</longitude>
+				<latitude>33.715416000527</latitude>
+				<altitude>0</altitude>
+				<range>1000.000709204209</range>
+				<tilt>0</tilt>
+				<heading>-1.778287879339771e-011</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Point>
+				<coordinates>-84.23131900003205,33.715416000527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emag: Base Station 071</name>
+			<LookAt>
+				<longitude>-84.21647100003963</longitude>
+				<latitude>33.73859799977436</latitude>
+				<altitude>0</altitude>
+				<range>1000.000122203337</range>
+				<tilt>0</tilt>
+				<heading>-2.201858249043674e-011</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin50</styleUrl>
+			<Point>
+				<coordinates>-84.21647100003963,33.73859799977436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emag: Base Station 013</name>
+			<LookAt>
+				<longitude>-84.26127399999987</longitude>
+				<latitude>33.70035000023155</latitude>
+				<altitude>0</altitude>
+				<range>1000.000065867309</range>
+				<tilt>0</tilt>
+				<heading>6.400866296445329e-014</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin7</styleUrl>
+			<Point>
+				<coordinates>-84.26127399999987,33.70035000023155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emag: Site F</name>
+			<LookAt>
+				<longitude>-121.960000000001</longitude>
+				<latitude>37.38400000021676</latitude>
+				<altitude>0</altitude>
+				<range>1000.000378991945</range>
+				<tilt>0</tilt>
+				<heading>-6.106664988409953e-013</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Point>
+				<coordinates>-121.960000000001,37.38400000021676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emag: Site G</name>
+			<LookAt>
+				<longitude>-121.9000002156615</longitude>
+				<latitude>37.33400017984283</latitude>
+				<altitude>0</altitude>
+				<range>1002.197599066602</range>
+				<tilt>0</tilt>
+				<heading>2.838963108674335e-010</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<Point>
+				<coordinates>-121.9000002156615,37.33400017984283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emag: Site H</name>
+			<LookAt>
+				<longitude>-121.9800000002328</longitude>
+				<latitude>37.31700000007631</latitude>
+				<altitude>0</altitude>
+				<range>1000.000485314392</range>
+				<tilt>0</tilt>
+				<heading>-1.411180306618548e-010</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>-121.9800000002328,37.31700000007631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emag: Site E</name>
+			<LookAt>
+				<longitude>-121.8999999999755</longitude>
+				<latitude>37.36400000024906</latitude>
+				<altitude>0</altitude>
+				<range>1000.000400852796</range>
+				<tilt>0</tilt>
+				<heading>1.486591258116048e-011</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>-121.8999999999755,37.36400000024906,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
