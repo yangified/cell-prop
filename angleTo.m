@@ -10,13 +10,13 @@ elseif dx<0 && dy>0 % Second quadrant
     theta=270+(atan(dy/abs(dx))*180/pi);
 elseif dx<0 && dy<0 % Third quadrant
     theta=270-(atan(abs(dy)/abs(dx))*180/pi);
-elseif dx==0
+elseif dx==0        % Point is due east or due west
     if dy>0
         theta=0;
     else
         theta=180;
     end
-elseif dy==0
+elseif dy==0        % Point is due north or due south
     if dx>0
         theta=90;
     else
