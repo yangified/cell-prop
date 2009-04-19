@@ -1,0 +1,19 @@
+	
+No.	Clutter Class
+1	sea
+2	inland water
+3	open
+4	cropland
+5	forest
+6	parks
+7	villages
+8	urban open space
+9	res. high vegetation
+10	res. low vegetation
+11	dense residential
+12	urban
+13	dense urban
+14	dense urban high
+15	industrial
+16	building blocks
+17	airport
